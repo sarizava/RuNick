@@ -36,7 +36,7 @@ public class Main {
             }
             for (int i = 0; i < mC.length; i++) {
                 for (int j = 0; j < mC[0].length; j++) {
-                    System.out.print(" "+mC[i][j]+" ");
+                    System.out.print(" " + mC[i][j] + " ");
                 }
                 System.out.println();
             }
@@ -48,7 +48,6 @@ public class Main {
             } else if (qs == 0) {
                 break;
             }
-
         }
     }
 }
